@@ -1,0 +1,13 @@
+3gram,frequency
+"('get_covered_packages', 'get_failing_tests_covered_methods_for_class', 'get_code_snippet')",683
+"('get_failing_tests_covered_methods_for_class', 'get_code_snippet', 'get_code_snippet')",154
+"('get_covered_packages', 'get_failing_tests_covered_methods_for_class', 'get_failing_tests_covered_methods_for_class')",151
+"('get_failing_tests_covered_methods_for_class', 'get_failing_tests_covered_methods_for_class', 'get_code_snippet')",111
+"('get_covered_packages', 'get_code_snippet', 'get_code_snippet')",92
+"('get_failing_tests_covered_methods_for_class', 'get_failing_tests_covered_methods_for_class', 'get_failing_tests_covered_methods_for_class')",60
+"('get_code_snippet', 'get_code_snippet', 'get_code_snippet')",57
+"('get_failing_tests_covered_methods_for_class', 'get_code_snippet', 'get_failing_tests_covered_methods_for_class')",22
+"('get_code_snippet', 'get_failing_tests_covered_methods_for_class', 'get_code_snippet')",22
+"('get_covered_packages', 'get_code_snippet', 'get_failing_tests_covered_methods_for_class')",17
+"('get_code_snippet', 'get_code_snippet', 'get_failing_tests_covered_methods_for_class')",12
+"('get_code_snippet', 'get_failing_tests_covered_methods_for_class', 'get_failing_tests_covered_methods_for_class')",3

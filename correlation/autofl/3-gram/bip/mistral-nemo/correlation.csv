@@ -1,0 +1,13 @@
+pattern,correlation,p-value
+"('get_covered_packages', 'get_failing_tests_covered_methods_for_class', 'get_code_snippet')",0.014526645490442568,0.3044269102500714
+"('get_failing_tests_covered_methods_for_class', 'get_code_snippet', 'get_code_snippet')",-0.06736018496333064,1.8670331139650928e-06
+"('get_covered_packages', 'get_failing_tests_covered_methods_for_class', 'get_failing_tests_covered_methods_for_class')",-0.021052729750598347,0.13663343397295172
+"('get_failing_tests_covered_methods_for_class', 'get_failing_tests_covered_methods_for_class', 'get_code_snippet')",-0.017065575643485882,0.227623000136312
+"('get_code_snippet', 'get_code_snippet', 'get_code_snippet')",-0.06986915581814986,7.602504714560355e-07
+"('get_covered_packages', 'get_code_snippet', 'get_code_snippet')",0.014587414879522842,0.30240814503854185
+"('get_failing_tests_covered_methods_for_class', 'get_failing_tests_covered_methods_for_class', 'get_failing_tests_covered_methods_for_class')",0.017343068200894395,0.2201513753018086
+"('get_failing_tests_covered_methods_for_class', 'get_code_snippet', 'get_failing_tests_covered_methods_for_class')",-0.04235797365792621,0.002737648261200758
+"('get_code_snippet', 'get_failing_tests_covered_methods_for_class', 'get_code_snippet')",-0.034161564542059805,0.015705492411385278
+"('get_covered_packages', 'get_code_snippet', 'get_failing_tests_covered_methods_for_class')",-0.038496632531354366,0.006479954462227997
+"('get_code_snippet', 'get_code_snippet', 'get_failing_tests_covered_methods_for_class')",-0.05341981175271267,0.00015739302139590808
+"('get_code_snippet', 'get_failing_tests_covered_methods_for_class', 'get_failing_tests_covered_methods_for_class')",-0.025584077423039215,0.07046479863236466
