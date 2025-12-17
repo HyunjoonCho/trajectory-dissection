@@ -1,0 +1,15 @@
+pattern,correlation,p-value
+"('check_pattern(null_deref)_valid', 'check_pattern(null_deref)_valid', 'check_pattern(null_deref)_valid', 'check_pattern(null_deref)_valid', 'check_pattern(null_deref)_valid')",0.01718042012060122,0.11988624144475178
+"('check_pattern(null_deref)_valid', 'check_pattern(null_deref)_valid', 'check_pattern(null_deref)_valid', 'check_pattern(null_deref)_valid', 'check_pattern(use_after_free)_valid')",-0.0037994391464629728,0.7309074285817164
+"('check_pattern(null_deref)_valid', 'check_pattern(null_deref)_valid', 'check_pattern(null_deref)_valid', 'check_pattern(use_after_free)_valid', 'check_pattern(buffer_overflow)_valid')",-0.01081932265511961,0.3273963976346465
+"('list_variables()_valid', 'check_pattern(use_after_free)_valid', 'check_pattern(use_after_free)_valid', 'check_pattern(use_after_free)_valid', 'check_pattern(use_after_free)_valid')",0.011712145370716883,0.2890555328859723
+"('check_pattern(use_after_free)_valid', 'check_pattern(use_after_free)_valid', 'check_pattern(use_after_free)_valid', 'check_pattern(use_after_free)_valid', 'check_pattern(use_after_free)_valid')",-0.008149366864484132,0.4607111993316242
+"('list_variables()_valid', 'check_pattern(null_deref)_valid', 'check_pattern(use_after_free)_valid', 'check_pattern(buffer_overflow)_valid', 'summarize_code()_valid')",0.01166568920928483,0.2909726697134842
+"('list_variables()_valid', 'check_pattern(buffer_overflow)_valid', 'check_pattern(null_deref)_valid', 'check_pattern(use_after_free)_valid', 'summarize_code()_valid')",0.009594571375080194,0.38512014711930226
+"('check_pattern(buffer_overflow)_valid', 'check_pattern(null_deref)_valid', 'summarize_code()_valid', 'check_pattern(use_after_free)_valid', 'list_variables()_valid')",0.006751531344401825,0.5411057297644428
+"('summarize_code()_valid', 'check_pattern(use_after_free)_valid', 'check_pattern(use_after_free)_valid', 'check_pattern(use_after_free)_valid', 'check_pattern(use_after_free)_valid')",-0.019925925391783388,0.07125747953014645
+"('check_pattern(use_after_free)_valid', 'check_pattern(use_after_free)_valid', 'check_pattern(use_after_free)_valid', 'check_pattern(null_deref)_valid', 'check_pattern(buffer_overflow)_valid')",-0.01335617604251851,0.22665222199618162
+"('list_variables()_valid', 'check_pattern(buffer_overflow)_valid', 'check_pattern(null_deref)_valid', 'summarize_code()_valid', 'check_pattern(use_after_free)_valid')",-0.0009120785190587814,0.9342018066418021
+"('list_variables()_valid', 'check_pattern(null_deref)_valid', 'check_pattern(buffer_overflow)_valid', 'check_pattern(use_after_free)_valid', 'summarize_code()_valid')",-0.0014766707626969995,0.8936672540126811
+"('check_pattern(buffer_overflow)_valid', 'check_pattern(buffer_overflow)_valid', 'check_pattern(buffer_overflow)_valid', 'check_pattern(buffer_overflow)_valid', 'check_pattern(buffer_overflow)_valid')",0.003528251081452291,0.7494451508429552
+"('list_variables()_valid', 'check_pattern(null_deref)_valid', 'check_pattern(null_deref)_valid', 'check_pattern(null_deref)_valid', 'check_pattern(null_deref)_valid')",0.013418244611627633,0.22450085883206333
